@@ -14,7 +14,7 @@ A modern audio library management application that helps you organize and browse
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.9 or higher
 - PySide6 (Qt for Python)
 - Other dependencies listed in `requirements.txt`
 
@@ -41,7 +41,7 @@ pip install -e .
 
 Run the application:
 ```bash
-python -m audio_browser.main
+python -m /src/audio_browser/main.py
 ```
 
 ### Basic Operations
