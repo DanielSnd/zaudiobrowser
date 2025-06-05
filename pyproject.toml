@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+qt_api = "pyside6"
+addopts = "-v --tb=short"
+testpaths = ["tests"]
+python_files = "test_*.py"
+pythonpath = ["src"] 
