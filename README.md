@@ -22,7 +22,7 @@ A modern audio library management application that helps you organize and browse
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/zaudiobrowser.git
+git clone https://github.com/danielsnd/zaudiobrowser.git
 cd zaudiobrowser
 ```
 
